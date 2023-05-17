@@ -232,3 +232,7 @@ footer{
 footer p{
 	color: #FFFFFF;	
 }
+footer p a{
+	text-decoration: none;
+    	color: #FFFFFF;	
+}
